@@ -5,7 +5,7 @@ puts "<ul>"
 
 while (i < number)
     i += 1
-    puts "<li>#{i}</li>"
+    puts "\t<li>#{i}</li>"
 end 
 
 puts "</ul>"
